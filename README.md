@@ -1,5 +1,5 @@
 # protractor-test
-Just some startup protractor stuff
+Just some startup protractor stuff. Prerequisites are: node.js installed, gitbash installed, some sort of text editor/ide (a la VS Code)
 
 ## To Begin
 ### These steps will get protractor and the selenium webdriver stuff set up
